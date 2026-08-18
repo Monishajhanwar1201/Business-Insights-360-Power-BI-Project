@@ -175,19 +175,8 @@ The dashboard tracks several important business KPIs, including:
 Business-Insights-360/
 │
 ├── README.md
-├── Business_Insights_360.pbix
-│
-├── Screenshots/
-│   ├── Home.png
-│   ├── Finance_View.png
-│   ├── Sales_View.png
-│   ├── Marketing_View.png
-│   ├── Supply_Chain_View.png
-│   ├── Sales_Trend.png
-│   └── Executive_View.png
-│
-└── Documentation/
-    └── Project_Documentation.pdf
+├── Business_Insights_360_dashboard.pdf
+
 ```
 
 ---
